@@ -1,6 +1,8 @@
 Digital Transformation
 ----------------------
 - Block Chain
+  - Public 
+  - Private
 - Cloud
 - AI & ML
 
