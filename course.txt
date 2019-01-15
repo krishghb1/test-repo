@@ -4,3 +4,7 @@ Digital Transformation
 - Cloud
 - AI & ML
 
+Other courses
+-----------------------
+- Internet of things
+- Cyber Security
